@@ -73,7 +73,7 @@ anomaly_detector/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/yourusername/anomaly_detector.git
+git clone https://github.com/shrutinag18/credit-card-fraud-detection.git
 cd anomaly_detector
 ```
 
